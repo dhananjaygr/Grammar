@@ -2,7 +2,7 @@
 
 ### Overview
 
-The goal is to ensure the tool catches common mistakes like spelling errors, incorrect sentence structure, and punctuation issues, providing a smoother and more professional user experience.
+The goal is to ensure that common mistakes like spelling errors, incorrect sentence structure, and punctuation issues are identified, providing a smoother and more professional user experience.
 
 ### Prerequisites
 
